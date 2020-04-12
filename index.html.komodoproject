@@ -1,7 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Komodo Project File - DO NOT EDIT -->
-<project id="d588dbcd-4c41-482f-90d4-66076d2939c5" kpf_version="5" name="index.html">
-<preference-set idref="d588dbcd-4c41-482f-90d4-66076d2939c5" id="project" preftype="project">
-  <long id="prefs_version">1</long>
-</preference-set>
-</project>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<title>PAGINA PRUEBA </title>
+ <body bg color="#00ffff" text="#000000"></body>
+
+        <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	
+	<header id="main-header">
+		
+		<a id="logo-header" href="#">
+			
+		<nav>
+   <ul>
+				<a href="">INICIO</a>
+   
+				<a href="#">LECTURAS</a>
+    
+				<a href="">MULTIMEDIA</a>
+    
+				<a href="#">ACTIVIDADES</a>
+    
+    <a href="#">AUTORES</a>
+    </ul>
+			</nav>
+
+	
+	<section id="main-content">
+	
+		<article>
+   
+			<header>
+				<figure>
+					<img src="pagina prueba/ LOGO.jpg">
+					<figcaption>"https://www.unad.edu.co"/</figcaption>
+					
+				</figure>>
+				
+			</header>
+				
+				<h1>OVI DISEÑO DE SITIOS WEB-grupo 301122-56</h1>
+			</header>
+			
+			<img src="http://placekitten.com/800/250" alt="Gatito" />
+			
+			<div class="content">
+    
+				<h2> OBJETIVOS</h2>
+				<p>Fundamentar  teóricamente a los estudiantes sobre las generalidades básicas del Diseño Web
+				para que puedan utilizar la forma correcta de los idiomas HTML5 y CSS3,
+    aplicar en la construcción de Sitios Web e implementar sistemas de control
+    de versiones. 
+Ofrecer información para que el estudiante pueda operar y administrar sistemas de
+control de versiones como GIT o GITHUB.
+
+Brindar documentación para que el estudiante utilice de forma correcta
+los idiomas HTML5 y CSS3 para aplicar en la solución de problemas de construcción de Sitios Web
+. 
+Brindar pautas para que el estudiante pueda evaluar y desarrollar Sitios web
+que satisfagan las necesidades del usuario y dar recomendaciones concretas para su actualización
+
+</p>
+				<h3>ACERCA DE HTML</h3>> 
+				
+
+			</div>
+			
+		</article> <!-- /article -->
+	
+	</section> <!-- / #main-content -->
+
+	
+	
+	<footer>
+	<ul>
+		<a href="aviso legal">Aviso legal</a>
+		<a href="privacidad.html">Provacidad</a>
+		<a href="contactar.html">Contactar</a>
+	</ul>
+</footer>
+
+			
+	</body>
+</html>
+
